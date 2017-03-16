@@ -1,0 +1,142 @@
+.Logo {
+  width: 200px;
+  font-size: 2.5rem;
+  font-weight:bold;
+  float:left;
+
+}
+.Slogan {
+  Margin-top: 15px;
+  width: 380px;
+  float: left;
+  font-family: sans-serif;
+  font-size:0.9rem;
+  color: #A37B71;
+}
+div {
+  outline: 1px solid yellow;
+}
+body {
+  background-color: #441E13;
+  color:white;
+}
+
+.logoContainer{
+  max-width: 920px;
+  margin-left: auto;
+  margin-right:auto;
+  overflow:hidden;
+}
+
+.nav {
+  width: 920px;
+  height:50px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0,0,0,  0.25)
+  padding:0 10px;
+  padding-top:18px;
+}
+
+.nav li {
+  display: block;
+  float: left;
+  font-family: sans-serif;
+  padding: 6px 20px;
+  padding-bottom: 6px 20px;
+  border-right: 1px solid #D4B364;
+}
+
+.nav li:last-child {
+  border-right: none;
+}
+
+.AboutContainer{
+  width: 920px;
+  height: 213px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #87A984;
+
+
+}
+.About{
+  font-weight: bold;
+  font-size: 3rem;
+  width: 140px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #87A984;
+  float: left;
+
+}
+
+.Image{
+width: 230px;
+margin-left: auto;
+margin-right: auto;
+float: left;
+}
+
+.AboutText{
+  padding-top: 65px;
+  padding-bottom: 10px;
+  font-size: 1.3rem;
+  font-family: sans-serif;
+  font-weight: normal;
+
+}
+
+.SideNav li{
+  border-bottom: 1px Solid #FFFFFF;
+  width: 138px;
+  Display: Block;
+  font-family:sans-serif;
+  margin-right: auto;
+}
+
+.SideNav{
+  padding-top: 37px;
+
+}
+
+.Main{
+  font-family: sans-serif;
+  color: Black;
+  padding-left: 30px;
+  padding-right:  30px;
+
+}
+
+.title{
+  color: #577075;
+  font-family: sans-serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+.SideNavContainer {
+  Float:left;
+  height: 613px;
+  width: 197px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #96AFAC;
+}
+
+.maincontainer{
+  Float:left;
+  height: 613px;
+  width: 726px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #DBD8C5;
+
+}
+.bigcontainer{
+
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
